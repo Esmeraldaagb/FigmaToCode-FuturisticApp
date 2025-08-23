@@ -54,9 +54,9 @@ export function HeroStack() {
 
               <Button
                 variant="outline"
-                className="w-full sm:w-auto px-6 py-3 rounded-full border border-solid border-[#ebebeb] h-auto bg-transparent hover:bg-[#ebebeb]/10 transition-colors"
+                className=" hidden md:block w-full sm:w-auto px-6 py-3 rounded-full border border-solid border-[#ebebeb] h-auto bg-transparent hover:bg-[#ebebeb]/10 transition-colors"
               >
-                <span className="font-normal text-[#ebebeb] text-base">
+                <span className=" font-normal text-[#ebebeb] text-base">
                   Talk to an expert
                 </span>
               </Button>
